@@ -1,0 +1,53 @@
+h2{
+    color: rgb(118, 78, 226);
+     font-family:ubuntu;
+}
+h1{
+    color: #47CC1F;
+}
+table, tr,td{
+    width: 520px;
+   
+}
+
+
+form{
+    padding: 10px;
+    margin: 5px 250px 5px 250px; 
+    background-color:  rgb(118, 78, 226);
+    }
+input{
+    padding: 5px;
+    margin: 05px;
+    
+}
+input :focus{
+    border-color:red;
+    background-color: red;
+}
+button{
+    border: none;
+    background-color: rosybrown;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+div{
+    text-align: center;
+    line-height: 0em;
+}
+a{
+ text-decoration: none ;
+}
+p{
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+table{
+    width 100px
+}
